@@ -1,0 +1,3 @@
+// tutorial link: https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG
+
+// In this series, I will learn and practise about ES6 features of JavaScript.. and by seeing the js scripts, you may find them useful to understand the topics too...
